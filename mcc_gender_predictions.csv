@@ -1,0 +1,501 @@
+mcc_code,MCC_Code_name,gender,confidence
+4936,Electric Vehicle Charging,neutral,0.9
+6359,Insurance - Not Elsewhere Classified,neutral,0.9
+1710,"General Contractors - Heating, Plumbing, Air Conditioning",neutral,0.9
+2852,Contracted Services - General,neutral,0.9
+722,"Photographic Studios, Portrait Studios",neutral,0.9
+873,Unknown MCC Code,neutral,0.0
+5830,Antiquities Shops,neutral,0.9
+3344,Hertz Car Rental,neutral,0.9
+1343,Agricultural Cooperative,neutral,0.7
+1902,Quasi Cash - Member Financial Institution,neutral,0.9
+869,Political Organizations,neutral,0.9
+3328,National Car Rental,neutral,0.9
+3285,Hertz Car Rental,neutral,0.9
+5118,Commercial Footwear,neutral,0.9
+5974,Religious Goods Stores,neutral,0.9
+4526,"Airports, Flying Fields",neutral,0.95
+996,Merchandise - Not Elsewhere Classified,neutral,0.9
+3109,AIR FRANCE,neutral,0.95
+641,Non-standard MCC (falls within Financial Services range),neutral,0.1
+4991,Electric Vehicle Charging,neutral,0.9
+1412,"Building Materials, Lumber Stores",male,0.65
+1429,Heavy Construction Equipment Rental,male,0.9
+5829,Eating Places and Restaurants - Caterers,neutral,0.9
+2586,Advertising Services,neutral,0.9
+2948,Electric Vehicle Charging,neutral,0.9
+5873,Direct Marketing - Inbound Telemarketing Merchants,neutral,0.9
+4097,Car Rental Return,neutral,0.9
+2830,Agricultural Co-operatives,neutral,0.9
+1024,"Coal, Lignite, Peat, and Other Solid Fuels",neutral,0.9
+4220,"Public Warehousing - Farm Products, Refrigerated Goods, Household Goods, Storage",neutral,0.9
+1401,Bail and Bond Payments,neutral,0.9
+2061,Agricultural Co-operatives,neutral,0.9
+4386,Freight Carriers,neutral,0.9
+2989,Telecommunication Services - Not Elsewhere Classified,neutral,0.95
+5683,Furriers and Fur Shops,female,0.85
+6411,Financial Institutions - Automated Cash Disbursements,neutral,0.95
+3534,Hertz Car Rental,neutral,0.9
+1621,Construction - Other Contractors,neutral,0.9
+3131,United Airlines,neutral,0.95
+6238,Investment Broker/Dealer,neutral,0.9
+5331,Variety Stores,neutral,0.9
+3908,"Gift, Card, Novelty, and Souvenir Shops",neutral,0.9
+2754,Publishing and Printing,neutral,0.9
+3356,National Car Rental,neutral,0.9
+2810,Agricultural Co-operatives,neutral,0.8
+3254,Hertz Car Rental,neutral,0.9
+960,Government Services,neutral,0.9
+4620,Freight Transporters,neutral,0.9
+3654,National Car Rental,neutral,0.9
+5822,Florists,neutral,0.9
+6417,Cardholder-Activated Terminals (CAT) - Manual Entry/Automated Disbursements,neutral,0.95
+952,Government Services (Unspecified),neutral,0.8
+2292,Mail Order Houses - Inbound Telemarketing Merchants Only,neutral,0.9
+424,"Non-standard MCC Code. MCCs are typically 4 digits. If related to 42xx (Transportation Services), it would be gender-neutral.",neutral,0.1
+2853,Contracted Services - General,neutral,0.9
+2432,Forestry Services,neutral,0.9
+2412,Forestry Services,neutral,0.9
+3508,Holiday Inn,neutral,0.95
+4736,Freight Transporters,neutral,0.9
+3676,United Airlines,neutral,0.95
+5112,"Stationery, Office Supplies, Printing and Writing Paper",neutral,0.9
+6226,Investment Brokerage - Stockbrokers,neutral,0.9
+3588,Holiday Inn,neutral,0.95
+4518,Airlines (not otherwise classified),neutral,0.95
+3662,National Car Rental,neutral,0.9
+2761,Religious Organizations,neutral,0.95
+3361,National Car Rental,neutral,0.9
+361,Airlines,neutral,0.95
+280,Unknown or Invalid MCC Code,neutral,0.0
+2185,"Non-Financial Institutions - Foreign Currency, Money Orders (not wire transfer), Travelers Cheques",neutral,0.9
+4206,Freight Carriers,neutral,0.95
+5353,Direct Marketing - Catalog Merchant,neutral,0.9
+3293,Hertz Car Rental,neutral,0.9
+3919,Miscellaneous Personal Services - Not Elsewhere Classified,neutral,0.6
+5375,Duty Free Stores,neutral,0.9
+21,Unknown MCC Code,neutral,0.0
+6389,Insurance - Other,neutral,0.9
+1092,"Coal, Coke, and Other Solid Fuel Dealers",neutral,0.9
+481,Telecommunication Services and Equipment,neutral,0.9
+4681,"Freight - Local, Long Distance, Moving and Storage, Hauling Services",neutral,0.9
+1734,Electrical Contractors,neutral,0.9
+5905,Drug Stores and Pharmacies,neutral,0.95
+4547,"Aviation Services, Not Elsewhere Classified",neutral,0.9
+200,Invalid/Unknown MCC Code,neutral,0.0
+4399,Freight Carriers,neutral,0.9
+254,Unknown/Invalid MCC Code,neutral,0.0
+2467,"Freight - Local, Trucking, Moving Services, Storage",neutral,0.9
+5048,Commercial Equipment - NEC,neutral,0.9
+5744,Religious Goods Stores,neutral,0.9
+4987,"Telecommunication Services - including local and long distance calls, enhanced services, etc.",neutral,0.95
+2285,Telecommunication Services,neutral,0.95
+2604,Travel Agencies,neutral,0.9
+49,"Utilities (Electric, Gas, Water, Sanitary)",neutral,1.0
+5874,Electric Vehicle Charging,neutral,0.95
+2032,Agricultural Co-operatives,neutral,0.9
+2589,"Miscellaneous, General Services",neutral,0.9
+3500,Hotels/Motels/Resorts - Not Elsewhere Classified,neutral,0.9
+2585,Contractors - Pumping Service,neutral,0.9
+5216,"Glass, Paint, Wallpaper Stores",neutral,0.9
+4789,Transportation Services Not Elsewhere Classified,neutral,0.9
+3061,United Airlines,neutral,0.9
+5771,Miscellaneous General Merchandise Stores,neutral,0.9
+377,Unrecognized MCC Code (MCC codes are typically 4 digits),neutral,0.0
+5146,Meat Provisioners - Wholesale,neutral,0.9
+2955,Bond Payments,neutral,0.9
+5779,Miscellaneous Home Furnishing Specialty Stores,neutral,0.9
+301,Airlines / Air Carriers,neutral,1.0
+2635,Donations to Political Organizations,neutral,0.9
+965,Unknown MCC Code,neutral,0.0
+598,Fuel Dealers (Non-Automotive),neutral,0.9
+4489,Travel Agencies,neutral,0.9
+4153,"Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies",neutral,0.9
+6410,Telecommunication Services,neutral,0.95
+5867,Direct Marketing - Inbound Telemarketing Merchants,neutral,0.9
+302,United Airlines,neutral,0.95
+175,Special Trade Contractors,neutral,0.5
+2274,Agricultural Co-operatives,neutral,0.7
+5514,Motorcycle Shops and Dealers,male,0.85
+4057,Rental of Commercial Vehicles,neutral,0.9
+4507,"Airlines, Air Carriers",neutral,0.95
+898,Invalid or Unknown MCC Code,neutral,0.0
+5718,"Fireplace, Fireplace Screens, and Accessories Stores",neutral,0.85
+4385,Freight Carriers,neutral,0.95
+2428,Logging Services,male,0.85
+2800,Agricultural Co-operatives,neutral,0.9
+5107,"Chemicals and Allied Products, Not Elsewhere Classified",neutral,0.95
+3612,United Airlines,neutral,0.9
+3495,National Car Rental,neutral,0.9
+1101,Airlines,neutral,0.95
+2493,Cash Disbursements - Manual,neutral,0.95
+6098,Automated Cash Disbursements – Customer Financial Institution,neutral,0.9
+6182,Bankcard Agent - Merchant Bank,neutral,0.95
+4352,Courier Services,neutral,0.95
+2676,Business Services - Not Elsewhere Classified,neutral,0.9
+2393,Freight Transporters,neutral,0.9
+4445,Car Rental Agencies (Not Listed Elsewhere),neutral,0.9
+2327,Men's and Boys' Clothing Stores,male,1.0
+1606,"Heating, Plumbing, and Air Conditioning Contractors",neutral,0.95
+3218,National Car Rental,neutral,0.9
+3895,Medical Services - Osteopaths,neutral,0.9
+4836,Telegraph Services,neutral,0.9
+5736,Record Stores,neutral,0.9
+3067,United Airlines,neutral,0.95
+4268,Commercial Transportation - Freight,neutral,0.95
+1723,Painting and Decorating Contractors,neutral,0.9
+3316,National Car Rental,neutral,0.9
+4205,Freight Carriers - Trucking - Local/Long Distance - Moving and Storage Companies,neutral,0.9
+1141,Automated Fuel Dispensers,neutral,0.95
+3159,United Airlines,neutral,1.0
+5632,Women's Accessory and Specialty Shops,female,0.95
+4772,Travel Agencies and Tour Operators,neutral,0.9
+67,Unspecified Financial Services (6xxx Series),neutral,0.3
+4008,"Motor Freight Carriers and Trucking - Local and Long Distance, Moving and Storage Companies",neutral,0.9
+1631,Construction Materials - Not Elsewhere Classified,neutral,0.7
+346,Invalid/Unknown MCC Code,neutral,0.0
+3198,National Car Rental,neutral,0.9
+164,Unknown MCC Code,neutral,0.0
+1196,Freight Carriers,neutral,0.9
+4129,Taxicabs and Limousines,neutral,0.9
+5322,Variety Stores,neutral,0.9
+3262,Holiday Inn,neutral,0.95
+5471,"Candy, Nut, and Confectionery Stores",neutral,0.9
+3659,National Car Rental,neutral,0.9
+3561,Hertz Car Rental,neutral,0.9
+3203,National Car Rental,neutral,0.9
+4820,Telecommunication Equipment and Services,neutral,0.9
+1695,"Contractors - Special Trade, NEC",neutral,0.9
+5061,Electrical Parts and Equipment,neutral,0.85
+5081,"Industrial Supplies, Not Elsewhere Classified",neutral,0.9
+1409,Paving Contractors,neutral,0.9
+5548,Electric Vehicle Charging,neutral,0.9
+6460,Digital Goods - Large Merchant,neutral,0.9
+492,Utilities,neutral,1.0
+5193,Flower Shops,female,0.6
+4578,"Airlines, Air Carriers (not elsewhere classified)",neutral,0.95
+5233,"Glass, Paint, Wallpaper Stores",neutral,0.9
+4148,Intercity Bus Lines,neutral,0.9
+5378,Duty Free Stores,neutral,0.9
+605,Unknown MCC Code (Not a standard 4-digit MCC),neutral,0.0
+2528,Miscellaneous Personal Services - Not Elsewhere Classified,neutral,0.9
+2130,Quasi Cash - Member Financial Institution,neutral,0.9
+1548,Contractors - Non-Financial Institutions (General Contractors - Residential and Commercial),neutral,0.9
+2478,"Freight Transportation - Local and Long Distance, Moving and Storage Companies",neutral,0.9
+2643,"Precious Stones and Metals, Watches and Jewelry",neutral,0.7
+1969,"General Contractors, Not Elsewhere Classified",neutral,0.8
+95,Invalid/Unknown MCC Code,neutral,0.0
+671,Unknown or Invalid MCC Code,neutral,0.1
+947,Government Services (Inferred from 9xx range),neutral,0.6
+3469,Airlines,neutral,0.95
+339,Car Rental Agencies,neutral,0.9
+261,Invalid MCC Code,neutral,0.0
+4030,Railroads - Freight,neutral,1.0
+4350,Courier Services,neutral,0.95
+1744,"Masonry, Stonework, Tile Setting, Plastering, Insulation Contractors",neutral,0.9
+2606,Travel Agencies,neutral,0.95
+3015,United Airlines,neutral,0.95
+1720,Contractors - Carpentry,neutral,0.9
+1844,Unknown MCC Code,neutral,0.0
+6444,Payment Service Providers (PSPs) - Merchant Initiated Transactions,neutral,0.9
+332,Travel Services (Non-standard MCC),neutral,0.3
+1863,Unrecognized MCC Code,neutral,0.0
+5115,"Industrial Supplies, Not Elsewhere Classified",neutral,0.9
+1773,Specialty Contractors - Not Elsewhere Classified,neutral,0.9
+631,"Insurance Services (General - based on 63x prefix, as 631 is not a standard 4-digit MCC)",neutral,0.8
+1361,Petroleum and Petroleum Products,neutral,0.9
+6185,Business-to-Business (B2B) Cardholder-Initiated Payments,neutral,0.95
+5218,Lumber and Building Materials Stores,neutral,0.7
+5981,"Fuel Dealers (Non-Automotive) - Coal, Wood, Oil, Gas, Etc.",neutral,0.95
+4447,Freight Carriers,neutral,0.95
+5437,Fruit and Vegetable Markets,neutral,0.95
+5878,Electric Vehicle Charging,neutral,0.95
+4531,Airlines,neutral,0.9
+4710,Passenger Railways,neutral,0.95
+2918,Electric Vehicle Charging,neutral,0.9
+3701,United Airlines,neutral,0.95
+659,POI Funding Transactions,neutral,0.9
+2107,Mail Order Houses - Inbound Telemarketing Merchants Only,neutral,0.9
+956,Government Services (Unspecified),neutral,0.75
+4111,"Transportation - Local & Suburban Commuter Passenger, including Ferries",neutral,0.95
+789,Unknown MCC Code,neutral,0.0
+370,Airline Services,neutral,0.6
+2465,"Freight - Local, Long Distance, Moving & Storage, Hauling Services",neutral,0.9
+120,Unknown or Invalid MCC Code,neutral,0.0
+2136,Quasi Cash - Member Financial Institution,neutral,0.9
+2212,Travel Agencies,neutral,0.9
+3187,National Car Rental,neutral,0.9
+331,Car Rental Agencies,neutral,0.7
+2926,Electric Vehicle Charging,neutral,0.95
+1117,"Lodging - Hotels, Motels, Resorts - Not Elsewhere Classified",neutral,0.9
+5220,"Building Materials, Lumber Stores",neutral,0.9
+2756,Book Stores,neutral,0.9
+4017,Freight Carriers - Trucking - Local and Long Distance - Moving and Storage Companies,neutral,0.9
+6329,Health and Accident Insurance,neutral,0.95
+1500,"Contractors - General, Residential, and Commercial",neutral,0.9
+3196,AIR FRANCE,neutral,0.95
+2782,Commercial Footwear,neutral,0.8
+4998,Electric Vehicle Charging,neutral,0.9
+6155,Merchandise and Services - Not Elsewhere Classified,neutral,0.9
+5753,Used Merchandise Stores,neutral,0.9
+3583,Hertz Car Rental,neutral,0.9
+5377,Duty Free Stores,neutral,0.9
+409,Unknown/Invalid MCC Code 409,neutral,0.0
+4951,Freight Carriers,neutral,0.95
+1947,Unassigned MCC Code,neutral,0.0
+1228,Oil and Gas Field Services,neutral,0.9
+3859,Medical Services - Other,neutral,0.9
+5481,"Candy, Nut, and Confectionery Stores",neutral,0.9
+5004,"Wholesale, Construction Materials, Not Elsewhere Classified",neutral,0.8
+4684,Freight Transport - Road,neutral,0.95
+822,"Colleges, Universities, Professional Schools, and Junior Colleges",neutral,0.95
+319,Unassigned MCC Code,neutral,0.0
+1493,Other Miscellaneous General Merchandise,neutral,0.8
+5990,Merchandise - Miscellaneous,neutral,0.9
+2489,Telecommunication Services,neutral,0.95
+415,Unknown or Invalid MCC Code: 415 (Standard MCC codes are 4 digits),neutral,0.0
+5201,Home Supply Warehouse Stores,neutral,0.9
+3089,United Airlines,neutral,0.95
+1707,Contractors - Carpentry,neutral,0.9
+5755,Antique Shops,neutral,0.85
+1938,Unrecognized MCC Code,neutral,0.0
+101,Unknown MCC Code,neutral,0.0
+4982,"Cable, Satellite, and Other Pay Television and Radio Services",neutral,0.9
+343,Car Rental Agencies,neutral,0.9
+2376,Contractors - Heavy Construction,neutral,0.9
+2421,Dues - Agricultural Cooperatives,neutral,0.6
+1122,"Lodging - Hotels, Motels, Resorts - Not Elsewhere Classified",neutral,0.9
+1176,Unknown MCC Code,neutral,0.0
+2822,Agricultural Cooperative,neutral,0.9
+2865,Petroleum - Bulk Sales,neutral,0.9
+2998,Duty Free Stores,neutral,0.9
+2340,Agricultural Co-operatives,neutral,0.9
+5001,Airlines,neutral,0.95
+4191,Freight Carriers - Other,neutral,0.95
+3140,United Airlines,neutral,0.95
+1175,Unrecognized MCC Code,neutral,0.0
+5794,Used Merchandise Stores,neutral,0.8
+4666,Freight Carriers,neutral,0.9
+5357,Duty Free Stores,neutral,0.9
+2803,Agricultural Co-operatives,neutral,0.7
+4154,Toll and Bridge Fees,neutral,0.95
+3265,Hertz Car Rental,neutral,0.9
+1527,Timeshares,neutral,0.9
+1728,Painting and Decorating Contractors,neutral,0.9
+4264,"Commercial Freight, and Storage",neutral,0.95
+2990,Tolls/Bridge Fees,neutral,1.0
+1026,Agricultural Cooperative,neutral,0.9
+2117,Travel Agencies,neutral,0.9
+6261,Financial Information Services,neutral,0.9
+6053,Quasi Cash - Member Financial Institution,neutral,0.9
+1242,Electric Vehicle Charging,neutral,0.9
+5954,Religious Goods Stores,neutral,0.9
+6070,Automated Cash Disbursements - Customer Financial Institution,neutral,0.95
+2851,Contracted Services - General,neutral,0.9
+4361,Freight Carriers,neutral,0.9
+842,Professional Services (Unspecified),neutral,0.4
+405,Invalid or Unknown MCC Code (MCCs are typically 4 digits),neutral,0.0
+589,Unknown MCC Code,neutral,0.0
+2181,"Non-Financial Institutions - Foreign Currency, Money Orders (not wire transfer), Travelers Cheques",neutral,0.9
+3569,Holiday Inn,neutral,0.9
+6420,Automated Cash Disbursements – Customer Financial Institution,neutral,0.95
+5580,Motor Home and Recreational Vehicle Dealers,neutral,0.9
+1052,Agricultural Cooperatives,neutral,0.9
+4429,Other Transportation Services - Not Elsewhere Classified,neutral,0.9
+2156,Mail Order Houses - Inbound Telemarketing Merchants Only,neutral,0.9
+2859,Contracted Services - Not Elsewhere Classified,neutral,0.9
+4755,Car Rental Agencies (Not Listed Elsewhere),neutral,0.9
+1349,Oil and Gas - Other,neutral,0.9
+5986,"Fuel Dealers (Non-Automotive) - Coal, Oil, Wood, and Kerosene",neutral,0.9
+6439,Internet Gambling,male,0.75
+3353,National Car Rental,neutral,0.9
+3412,Airlines,neutral,0.95
+4155,"Bus Lines, Charters, Tour Buses",neutral,0.95
+5563,Boat Dealers,male,0.75
+3816,Medical Services - Osteopaths,neutral,0.9
+5749,Miscellaneous Home Furnishing Specialty Stores,neutral,0.9
+3861,"Photographic Studios, Photographic Film Processing Laboratories, Photo Developing",neutral,0.9
+5266,Nurseries - Lawn and Garden Supply Stores,neutral,0.9
+4389,Freight Carriers,neutral,0.95
+6304,Surety Bonds,neutral,0.95
+2898,Miscellaneous Personal Services - Not Elsewhere Classified,neutral,0.9
+2492,Miscellaneous General Merchandise,neutral,0.9
+3233,National Car Rental,neutral,0.9
+1476,Precious Stones and Jewelry,neutral,0.9
+2805,"Fuel Dispenser, Automated",neutral,0.95
+3797,Hertz Car Rental,neutral,0.9
+4138,Bus Lines,neutral,0.9
+3850,Medical Services - Osteopaths,neutral,0.9
+3504,Holiday Inn,neutral,0.95
+513,Wholesale Distributors (General),neutral,0.3
+2437,"Freight Transportation - Local and Long Distance, Moving and Storage Companies",neutral,0.9
+6117,"Debt, Marriage, and Personal Counseling Service",neutral,0.95
+1831,"Fuel Dispenser, Automated",neutral,0.95
+321,Airline Services,neutral,0.9
+4272,"Freight Carriers - Trucking - Local/Long Distance, Moving and Storage Companies",neutral,0.9
+3457,Hertz Car Rental,neutral,0.9
+2748,"Digital Goods Media - Books, Movies, Music",neutral,0.95
+5646,Children's and Infants' Wear Stores,neutral,0.7
+3274,Hertz Car Rental,neutral,0.9
+2519,"Trucking - Local/Long Distance, Moving and Storage Companies",neutral,0.9
+1725,Painting and Decorating Contractors,neutral,0.9
+6384,Insurance - Surety Bonds,neutral,0.9
+1879,Unknown MCC Code,neutral,0.0
+1047,Petroleum - Fuel Oil,neutral,0.9
+3244,United Airlines,neutral,0.95
+4382,Freight Carriers,neutral,0.9
+803,Chiropractors,neutral,0.9
+3382,National Car Rental,neutral,0.9
+1236,"Utility Companies - Electric, Gas, Sanitary, Water",neutral,1.0
+1408,"Building Materials, Lumber Stores",male,0.65
+2953,Duty Free Stores,neutral,0.9
+5058,Wholesale - Metals Service Centers & Offices,neutral,0.9
+6229,Commodity Brokers,neutral,0.9
+2773,Magazine Subscriptions,neutral,0.9
+1643,Paving and Roofing Materials and Services,neutral,0.9
+457,Unknown/Invalid MCC Code,neutral,0.0
+5382,Digital Goods - Large Merchant,neutral,0.9
+2296,Wig and Hairpiece Stores,female,0.85
+4621,"Freight Transporters (for services other than air, sea, and road)",neutral,0.95
+4120,Taxicabs and Limousines,neutral,0.95
+2098,Agricultural Co-operatives,neutral,0.9
+259,Invalid/Unknown MCC Code,neutral,0.0
+4077,Government Services - Not Elsewhere Classified,neutral,0.9
+506,Electrical Parts and Equipment (Wholesale),neutral,0.9
+1045,"Cattle, Sheep, and Livestock",neutral,0.9
+741,Taxicabs/Limousines,neutral,0.9
+1285,Telecommunication Services,neutral,0.95
+3800,Medical Services - General,neutral,0.9
+6426,Internet Service Providers,neutral,0.95
+5260,Nurseries – Lawn and Garden Supply Stores,neutral,0.9
+367,Airlines,neutral,0.9
+545,Dairy Products Stores,neutral,0.9
+2152,"Travel Agencies, Tour Operators",neutral,0.95
+4301,Freight Carriers,neutral,0.9
+5444,"Candy, Nut, and Confectionery Stores",neutral,0.95
+4860,"Cable, Satellite, and Other Pay Television and Radio Services",neutral,0.9
+3414,Avis Rent-A-Car,neutral,0.9
+540,Food Stores (General),neutral,0.95
+2967,Agricultural Co-operatives,neutral,0.9
+880,Unrecognized MCC Code,neutral,0.0
+5131,"Piece Goods, Notions, and Other Dry Goods",female,0.85
+4143,"Bus Lines, Charters, Tour Buses",neutral,0.9
+1806,Cash Advance - Manual,neutral,0.95
+5017,Unknown Category,neutral,0.0
+6383,Unknown Category,neutral,0.0
+334,Unknown Category,neutral,0.0
+2411,Unknown Category,neutral,0.0
+5083,Unknown Category,neutral,0.0
+5876,Unknown Category,neutral,0.0
+1780,Unknown Category,neutral,0.0
+4522,Unknown Category,neutral,0.0
+201,Unknown Category,neutral,0.0
+4949,Unknown Category,neutral,0.0
+4553,Unknown Category,neutral,0.0
+1275,Unknown Category,neutral,0.0
+4899,Unknown Category,neutral,0.0
+5451,Unknown Category,neutral,0.0
+6247,Unknown Category,neutral,0.0
+1336,Unknown Category,neutral,0.0
+3587,Unknown Category,neutral,0.0
+5476,Unknown Category,neutral,0.0
+2834,Unknown Category,neutral,0.0
+648,Unknown Category,neutral,0.0
+64,Unknown Category,neutral,0.0
+3700,Unknown Category,neutral,0.0
+3918,Unknown Category,neutral,0.0
+1496,Unknown Category,neutral,0.0
+3683,Unknown Category,neutral,0.0
+3082,Unknown Category,neutral,0.0
+3276,Unknown Category,neutral,0.0
+1398,Unknown Category,neutral,0.0
+2435,Unknown Category,neutral,0.0
+2418,Unknown Category,neutral,0.0
+3277,Unknown Category,neutral,0.0
+3134,Unknown Category,neutral,0.0
+5177,Unknown Category,neutral,0.0
+172,Unknown Category,neutral,0.0
+5649,Unknown Category,neutral,0.0
+3717,Unknown Category,neutral,0.0
+4985,Unknown Category,neutral,0.0
+3997,Unknown Category,neutral,0.0
+2332,Unknown Category,neutral,0.0
+4711,Unknown Category,neutral,0.0
+4838,Unknown Category,neutral,0.0
+835,Unknown Category,neutral,0.0
+1951,Unknown Category,neutral,0.0
+329,Unknown Category,neutral,0.0
+5350,Unknown Category,neutral,0.0
+5259,Unknown Category,neutral,0.0
+4262,Unknown Category,neutral,0.0
+4295,Unknown Category,neutral,0.0
+725,Unknown Category,neutral,0.0
+514,Unknown Category,neutral,0.0
+1958,Unknown Category,neutral,0.0
+1171,Unknown Category,neutral,0.0
+4908,Unknown Category,neutral,0.0
+1248,Unknown Category,neutral,0.0
+2471,Unknown Category,neutral,0.0
+4764,Unknown Category,neutral,0.0
+1183,Unknown Category,neutral,0.0
+4421,Unknown Category,neutral,0.0
+3784,Unknown Category,neutral,0.0
+3145,Unknown Category,neutral,0.0
+5468,Unknown Category,neutral,0.0
+4329,Unknown Category,neutral,0.0
+6240,Unknown Category,neutral,0.0
+6243,Unknown Category,neutral,0.0
+5657,Unknown Category,neutral,0.0
+5568,Unknown Category,neutral,0.0
+4090,Unknown Category,neutral,0.0
+5729,Unknown Category,neutral,0.0
+2005,Unknown Category,neutral,0.0
+2571,Unknown Category,neutral,0.0
+5637,Unknown Category,neutral,0.0
+3510,Unknown Category,neutral,0.0
+3505,Unknown Category,neutral,0.0
+4893,Unknown Category,neutral,0.0
+2480,Unknown Category,neutral,0.0
+1145,Unknown Category,neutral,0.0
+2909,Unknown Category,neutral,0.0
+2497,Unknown Category,neutral,0.0
+2696,Unknown Category,neutral,0.0
+1518,Unknown Category,neutral,0.0
+1741,Unknown Category,neutral,0.0
+119,Unknown Category,neutral,0.0
+4130,Unknown Category,neutral,0.0
+4463,Unknown Category,neutral,0.0
+6345,Unknown Category,neutral,0.0
+189,Unknown Category,neutral,0.0
+303,Unknown Category,neutral,0.0
+5297,Unknown Category,neutral,0.0
+5369,Unknown Category,neutral,0.0
+2227,Unknown Category,neutral,0.0
+3433,Unknown Category,neutral,0.0
+3855,Unknown Category,neutral,0.0
+1497,Unknown Category,neutral,0.0
+3673,Unknown Category,neutral,0.0
+336,Unknown Category,neutral,0.0
+2369,Unknown Category,neutral,0.0
+813,Unknown Category,neutral,0.0
+1354,Unknown Category,neutral,0.0
+5995,Unknown Category,neutral,0.0
+721,Unknown Category,neutral,0.0
+4937,Unknown Category,neutral,0.0
+1296,Unknown Category,neutral,0.0
+1471,Unknown Category,neutral,0.0
+462,Unknown Category,neutral,0.0
+5773,Unknown Category,neutral,0.0
+2339,Unknown Category,neutral,0.0
+1892,Unknown Category,neutral,0.0
+1872,Unknown Category,neutral,0.0
+3798,Unknown Category,neutral,0.0
+4653,Unknown Category,neutral,0.0
+845,Unknown Category,neutral,0.0
+2669,Unknown Category,neutral,0.0
+1514,Unknown Category,neutral,0.0
+2611,Unknown Category,neutral,0.0
+199,Unknown Category,neutral,0.0
+5693,Unknown Category,neutral,0.0
+6085,Unknown Category,neutral,0.0
+1655,Unknown Category,neutral,0.0
